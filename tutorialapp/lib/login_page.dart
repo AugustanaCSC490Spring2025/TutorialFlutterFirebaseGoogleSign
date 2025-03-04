@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:testing/components/login_button.dart';
-import 'package:testing/components/login_textfield.dart';
+import 'package:tutorialapp/components/login_button.dart';
+import 'package:tutorialapp/components/login_textfield.dart';
 
 class LoginPage extends StatelessWidget {
   LoginPage({super.key});
