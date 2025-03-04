@@ -95,6 +95,9 @@ class LoginPage extends StatelessWidget {
 
               //GOOGLE BUTTON
               Container(
+                decoration: BoxDecoration(
+                  border: Border.all(color: Colors.amber),
+                ),
                 child: Image.asset('lib/images/google_logo.png', height: 75),
               ),
             ],
