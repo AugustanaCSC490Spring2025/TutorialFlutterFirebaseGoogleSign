@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tutorialapp/login_page.dart';
+import 'package:tutorialapp/pages/auth_page.dart';
+import 'package:tutorialapp/pages/login_page.dart';
 
 void main(){
   runApp(testApp());
@@ -13,7 +14,7 @@ class testApp extends StatelessWidget {
     return MaterialApp(
       title: 'Google Sign-In',
       theme: ThemeData(primarySwatch: Colors.deepOrange),
-      home: LoginPage(),
+      home: AuthPage(),
     );
   }
 }

@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "835433669788",
+    "project_id": "loginauth-b9a06",
+    "storage_bucket": "loginauth-b9a06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835433669788:android:4e0f584048d0021db6f959",
+        "android_client_info": {
+          "package_name": "com.example.tutorialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835433669788-4ta22jht42uuh9cbp5gpdee2u5j5cj8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tutorialapp",
+            "certificate_hash": "1f2ea5d0c467963d3a00ac5a97476819ca4deec9"
+          }
+        },
+        {
+          "client_id": "835433669788-2khrqshgb158a18tic4vv1o48ept4k1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLXj2tGArp0ufwJuPDoJzG_tcv2lbp0dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835433669788-2khrqshgb158a18tic4vv1o48ept4k1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835433669788-1uq5vk9kcaheoh89i9l8jjetvpg2j6a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videotutorial"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835433669788:android:1da246163519efb6b6f959",
+        "android_client_info": {
+          "package_name": "com.example.videotutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835433669788-2khrqshgb158a18tic4vv1o48ept4k1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLXj2tGArp0ufwJuPDoJzG_tcv2lbp0dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835433669788-2khrqshgb158a18tic4vv1o48ept4k1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835433669788-1uq5vk9kcaheoh89i9l8jjetvpg2j6a7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.videotutorial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
